@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Welcome to Jaime Landers' GitHub Resume/Portfolio
+*Purpose:* To serve as an extended master resume and portfolio for my job searching endeavors.
 
-You can use the [editor on GitHub](https://github.com/JaimeLanders/jaimelanders.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Profile:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Software devloper experienced in the top 5 TIOBE programming languages including C,C++, Python, Java and C. Able to deploy and scale projects using the top 3 cloud plat-forms.  Built web applications implementing and comsuming RESTFul APIs using vari-ous frameworks.  Skilled in learning new software and development environments quicklydemonstrated with various IDEs and tools.  Implemented and analyzed algorithms in arti-ficial intelligence, machine learning, data science, databases, operating systems and more.
 
-### Markdown
+## Education:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- _Bachelor of Science in Computer Science_ - Portland State University - 2018-2020 
+- GPA: 3.87
 
-```markdown
-Syntax highlighted code block
+### Awards:
 
-# Header 1
-## Header 2
-### Header 3
+- Graduated Magna Cum Laude
+- Presidents List 2 terms (Spring 19, Winter 20)
+- Deans List 2 terms (Winter 19, Fall 20)
 
-- Bulleted
-- List
+## Experience/Projects:
 
-1. Numbered
-2. List
+_Department of County Assets Intern_ - Multnomah County Dashboard (mDash)Multnomah County - March 2020 - June 2020
+- Headed  the  team  of  6  developers  of  a  web  dashboard  displaying  various  MultCoservices/app’s health status and information resulting in increasing IT support re-sponse time for these services and helping to decrease down time for end users.
 
-**Bold** and _Italic_ and `Code` text
+- Advised  members  of  the  team  providing  prompt  technical  support  after  demon-strating thorough knowledge of the project.
 
-[Link](url) and ![Image](src)
-```
+- Incorporated standard project management and software design workflow principlesusing the Agile methodology managed by Azure DevOps and GitKraken includingplanning user stories, two week sprints, daily stand-ups and retrospectives
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Summary of Qualifications:
 
-### Jekyll Themes
+- Demonstrated extensive knowledge of top 5 TIOBE Index programming languagesincluding Python, Java, C++, C and C# with a strong passion for the Pythonicmethodology.
+- Developed iterative Internet/Web/Cloud projects using ASP.NET, Flask, Docker,Kubernetes, Azure, Amazon Web Services and Google Cloud Platform.
+- Acquired knowledge in advanced Java programming through building a progressiveWeb/REST application evolving from a simple CLI to an Android/Web app witha full featured GUI.
+- Assembled  knowledge  various  SQL  as  a  language  and  products  including  AzureSQL, PostgreSQL, MySQL, SQLite and embedded SQL.
+- Utilized a multitude Linux tools such as Vim, Make, GDB and Valgrind and GNUutilities.
+- Rapidly adapted to various IDE’s including Visual Studio and VS Code, and Jet-Brains products InteliJ IDEA, PyCharm and DataGrip.
+- Collaborated with teams using source control tools such as Azure DevOps, GitHub,GitLab, Bitbucket and Gitkraken, and various communication tools such as Slack,Teams, Google Meets and Zoom.
+- Constructed an elementary Unix-like OS consisting of scheduling, paging and virtualmemory built from a limited implementation of C.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JaimeLanders/jaimelanders.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Soft Skills:
+- Organization
+- Problem Solving
+- Written/Verbal Communication
+- Time Management
+- Task Prioritization
+- Attention to Detail
+- Customer Service
+- Technical Writing
